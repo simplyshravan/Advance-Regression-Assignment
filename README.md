@@ -29,7 +29,7 @@ The company is looking at prospective properties to buy to enter the market. You
 
 
 ## Conclusions
-Below are 5 attributes which highly affect the demand of shared bikes.
+Below are 5 attributes which highly affect the house price.
 1.  1stFlrSF (First Floor square feet)  
 2.  2ndFlrSF (Second floor square feet )
 3.  OverallCond  (Rates the overall condition of the house)
